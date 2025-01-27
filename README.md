@@ -1,4 +1,4 @@
-# :mirror: blisse
+# 💄 blisse
 
 ## 🖥 작업자 : 김해진(Haejin Kim), 전채아(Chae A JEON), 정연희(yeon hui Jeong) 
 ## :loudspeaker: 팀명 : 지니피크
@@ -259,7 +259,7 @@ MD 추천 아이템: MD가 직접 선정한 상품을 슬라이더 형태로 제
 
 
 ## :link: 링크
-- [DEMO]()
+- [DEMO](https://blisse-react.netlify.app/)
 
 # 📞 Contact
 
